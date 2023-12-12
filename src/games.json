@@ -49,12 +49,12 @@
       "source": "https://zombsroyale.io/"
     },
     {
-      "title": "Narwhale.io",
-      "description": "A game about friendly narwhals piercing each other.",
+      "title": "Cookie Clicker",
+      "description": "An idle game about making cookies! Originally released in 2013 on the web, and actively developed since then.",
       "id": "6494373074",
-      "categories": ["multiplayer"],
-      "icon": "https://play-lh.googleusercontent.com/4XCEqf9APvf5RIlIja58gHZ3gcoyC8hhgH_Rn3bo6umLUDdPwL2FO2rlqdm-ujLpWQ=w240-h480-rw",
-      "source": "https://narwhale.io/"
+      "categories": ["idle"],
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/8/86/Cookie_Clicker_%28App_Icon%29.png/revision/latest/scale-to-width-down/250?cb=20221127192005",
+      "source": "https://orteil.dashnet.org/cookieclicker/"
     },
     {
       "title": "",
