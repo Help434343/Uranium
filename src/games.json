@@ -49,12 +49,12 @@
       "source": "https://zombsroyale.io/"
     },
     {
-      "title": "",
-      "description": "",
+      "title": "Narwhale",
+      "description": "A game about friendly narwhals piercing each other.",
       "id": "",
-      "categories": [],
-      "icon": "",
-      "source": ""
+      "categories": ["multiplayer"],
+      "icon": "https://play-lh.googleusercontent.com/4XCEqf9APvf5RIlIja58gHZ3gcoyC8hhgH_Rn3bo6umLUDdPwL2FO2rlqdm-ujLpWQ=w240-h480-rw",
+      "source": "https://narwhale.io/"
     },
     {
       "title": "",
